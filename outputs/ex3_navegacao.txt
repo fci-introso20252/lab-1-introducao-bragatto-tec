@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-bragatto-tec/exemplos
+/workspaces/lab-1-introducao-bragatto-tec
+/workspaces/lab-1-introducao-bragatto-tec/docs
+/workspaces/lab-1-introducao-bragatto-tec/outputs
+/workspaces/lab-1-introducao-bragatto-tec
+/workspaces/lab-1-introducao-bragatto-tec
